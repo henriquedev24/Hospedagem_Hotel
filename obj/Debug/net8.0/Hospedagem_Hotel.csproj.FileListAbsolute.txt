@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\bin\Debug\net8.0\Hospedagem_Hotel.exe
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\bin\Debug\net8.0\Hospedagem_Hotel.deps.json
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\bin\Debug\net8.0\Hospedagem_Hotel.runtimeconfig.json
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\bin\Debug\net8.0\Hospedagem_Hotel.dll
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\bin\Debug\net8.0\Hospedagem_Hotel.pdb
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.dll
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\refint\Hospedagem_Hotel.dll
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.pdb
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\Hospedagem_Hotel.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\DevGabriel\ProjetosGabriel\Hospedagem_Hotel\obj\Debug\net8.0\ref\Hospedagem_Hotel.dll
